@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Birds>
+	<Species EnglishName="Fulvous Whistling-Duck" LatinName="Dendrocygna bicolor" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Brant" LatinName="Branta bernicla" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Cackling Goose" LatinName="Branta hutchinsii" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Trumpeter Swan" LatinName="Cygnus buccinator" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Eurasian Wigeon" LatinName="Anas penelope" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Garganey" LatinName="Anas querquedula" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Eurasian Green-winged Teal" LatinName="Anas crecca crecca" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Tufted Duck" LatinName="Aythya fuligula" Sequence ="10" BandCode="FUWD" />
+	<Species EnglishName="Greater Scaup" LatinName="Aythya marila" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Harlequin Duck" LatinName="Histrionicus histrionicus" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Surf Scoter" LatinName="Melanitta perspicillata" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="White-winged Scoter" LatinName="Melanitta fusca" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Black Scoter" LatinName="Melanitta nigra" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Long-tailed Duck" LatinName="Clangula hyemalis" Sequence="10" BandCode="FUWD" />
+	<Species EnglishName="Barrow's Goldeneye" LatinName="Bucephala islandica" Sequence="10" BandCode="FUWD" />
+</Birds>

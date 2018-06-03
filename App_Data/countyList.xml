@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<County>
+  <Counties name="Apache" />
+  <Counties name="Cochise"  />
+  <Counties name="Coconino"  />
+  <Counties name="Gila"  />
+  <Counties name="Graham"  />
+  <Counties name="Greenlee"  />
+  <Counties name="La Paz"  />
+  <Counties name="Maricopa"  />
+  <Counties name="Mohave"  />
+  <Counties name="Navajo"  />
+  <Counties name="Pima"  />
+  <Counties name="Pinal"  />
+  <Counties name="Santa Cruz"  />
+  <Counties name="Yavapai"  />
+  <Counties name="Yuma"  />
+</County>

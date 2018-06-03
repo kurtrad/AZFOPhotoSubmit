@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fileLocations>
+  <AZFOFileLocations>
+    <htmlPath>ArizonaBirdReview/SubmittedHtml/</htmlPath>
+    <imagePath>ArizonaBirdReview/SubmittedHtml/</imagePath>
+  </AZFOFileLocations>
+  <ABCFileLocations>
+    <htmlPath>ArizonaBirdReview/SubmittedHtml/</htmlPath>
+    <imagePath>ArizonaBirdReview/SubmittedHtml/</imagePath>
+  </ABCFileLocations>
+</fileLocations>

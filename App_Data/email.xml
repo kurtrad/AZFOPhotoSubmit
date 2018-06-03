@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<email>
+  <ABCEmailList>
+    <send>True</send>
+    <to>Kurtrad@att.net</to>
+    <from>azfo@azfo.org</from>
+    <to>drbrdr@att.net</to>
+    <to>ghrosenberg@comcast.net</to>
+    <to>mollymp@flash.net</to>
+  </ABCEmailList>
+  <AZFOEmailList>
+    <send>True</send>
+    <from>photoeditor@azfo.org</from>
+    <to>photoeditor@azfo.org</to>
+    <hold>Kurtrad@att.net</hold>
+    <to>Kurtrad@att.net</to>
+    <to>drbrdr@att.net</to>
+    <to>mollymp@flash.net</to>
+  </AZFOEmailList>
+</email>

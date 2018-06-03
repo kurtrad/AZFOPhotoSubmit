@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Birds>
+	<Species EnglishName="Select a Review Species" LatinName="Selectus" Sequence="100" BandCode="SELE"/>
+	<Species EnglishName="Other add species text box below" LatinName="Other" Sequence="120" BandCode="OTHE"/>
+	<Species EnglishName="Fulvous Whistling-Duck" LatinName="Dendrocygna bicolor" Sequence="150" BandCode="FUWD"/>
+	<Species EnglishName="Brant" LatinName="Branta bernicla" Sequence="240" BandCode="BLBR"/>
+	<Species EnglishName="Cackling Goose" LatinName="Branta hutchinsii" Sequence="260" BandCode="CAGO"/>
+	<Species EnglishName="Trumpeter Swan" LatinName="Cygnus buccinator" Sequence="300" BandCode="TRUS"/>
+	<Species EnglishName="Garganey" LatinName="Anas querquedula" Sequence="540" BandCode="GARG"/>
+	<Species EnglishName="Eurasian Green-winged Teal" LatinName="Anas crecca crecca" Sequence="580" BandCode="EGWT"/>
+	<Species EnglishName="Tufted Duck" LatinName="Aythya fuligula" Sequence="610" BandCode="TUDU"/>
+	<Species EnglishName="Harlequin Duck" LatinName="Histrionicus histrionicus" Sequence="680" BandCode="HARD"/>
+	<Species EnglishName="Black Scoter" LatinName="Melanitta nigra" Sequence="720" BandCode="BLSC"/>
+	<Species EnglishName="Red-throated Loon" LatinName="Gavia stellata" Sequence="1510" BandCode="RTLO"/>
+	<Species EnglishName="Yellow-billed Loon" LatinName="Gavia adamsii" Sequence="1550" BandCode="YBLO"/>
+	<Species EnglishName="Least Grebe" LatinName="Tachybaptus dominicus" Sequence="1580" BandCode="LEGR"/>
+	<Species EnglishName="Red-necked Grebe" LatinName="Podiceps grisegena" Sequence="1620" BandCode="RNGR"/>
+	<Species EnglishName="Laysan Albatross" LatinName="Phoebastria immutabilis" Sequence="1730" BandCode="LAAL"/>
+	<Species EnglishName="Sooty Shearwater" LatinName="Puffinus griseus" Sequence="2040" BandCode="SOSH"/>
+	<Species EnglishName="Leach's Storm-Petrel" LatinName="Oceanodroma leucorhoa" Sequence="2180" BandCode="LHSP"/>
+	<Species EnglishName="Black Storm-Petrel" LatinName="Oceanodroma melania" Sequence="2220" BandCode="BLSP"/>
+	<Species EnglishName="Least Storm-Petrel" LatinName="Oceanodroma microsoma" Sequence="2260" BandCode="LTSP"/>
+	<Species EnglishName="White-tailed Tropicbird" LatinName="Phaethon lepturus" Sequence="2290" BandCode="WTTR"/>
+	<Species EnglishName="Red-billed Tropicbird" LatinName="Phaethon aethereus" Sequence="2300" BandCode="RBTR"/>
+	<Species EnglishName="Blue-footed Booby" LatinName="Sula nebouxii" Sequence="2350" BandCode="BFBO"/>
+	<Species EnglishName="Brown Booby" LatinName="Sula leucogaster" Sequence="2370" BandCode="BRBO"/>
+	<Species EnglishName="Anhinga" LatinName="Anhinga anhinga" Sequence="2510" BandCode="ANHI"/>
+	<Species EnglishName="Magnificent Frigatebird" LatinName="Fregata magnificens" Sequence="2530" BandCode="MAFR"/>
+	<Species EnglishName="Reddish Egret" LatinName="Egretta rufescens" Sequence="2750" BandCode="REEG"/>
+	<Species EnglishName="Yellow-crowned Night-Heron" LatinName="Nyctanassa violacea" Sequence="2830" BandCode="YCNH"/>
+	<Species EnglishName="White Ibis" LatinName="Eudocimus albus" Sequence="2870" BandCode="WHIB"/>
+	<Species EnglishName="Glossy Ibis" LatinName="Plegadis falcinellus" Sequence="2890" BandCode="GLIB"/>
+	<Species EnglishName="Roseate Spoonbill" LatinName="Platalea ajaja" Sequence="2940" BandCode="ROSP"/>
+	<Species EnglishName="Wood Stork" LatinName="Mycteria americana" Sequence="2970" BandCode="WOST"/>
+	<Species EnglishName="Swallow-tailed Kite" LatinName="Elanoides forficatus" Sequence="3140" BandCode="STKI"/>
+	<Species EnglishName="Red-shouldered Hawk" LatinName="Buteo lineatus" Sequence="3480" BandCode="RSHA"/>
+	<Species EnglishName="Broad-winged Hawk" LatinName="Buteo platypterus" Sequence="3500" BandCode="BWHA"/>
+	<Species EnglishName="Short-tailed Hawk" LatinName="Buteo brachyurus" Sequence="3520" BandCode="STHA"/>
+	<Species EnglishName="White-tailed Hawk" LatinName="Buteo albicaudatus" Sequence="3540" BandCode="WTHA"/>
+	<Species EnglishName="Aplomado Falcon" LatinName="Falco femoralis" Sequence="3820" BandCode="APFA"/>
+	<Species EnglishName="Purple Gallinule" LatinName="Porphyrio martinica" Sequence="4120" BandCode="PUGA"/>
+	<Species EnglishName="American Golden-Plover" LatinName="Pluvialis dominica" Sequence="4400" BandCode="AMGP"/>
+	<Species EnglishName="Pacific Golden-Plover" LatinName="Pluvialis fulva" Sequence="4410" BandCode="PGPL"/>
+	<Species EnglishName="Northern Jacana" LatinName="Jacana spinosa" Sequence="4630" BandCode="NOJA"/>
+	<Species EnglishName="Wandering Tattler" LatinName="Tringa incana" Sequence="4730" BandCode="WATA"/>
+	<Species EnglishName="Upland Sandpiper" LatinName="Bartramia longicauda" Sequence="4820" BandCode="UPSA"/>
+	<Species EnglishName="Whimbrel" LatinName="Numenius phaeopus" Sequence="4850" BandCode="WHIM"/>
+	<Species EnglishName="Hudsonian Godwit" LatinName="Limosa haemastica" Sequence="4920" BandCode="HUGO"/>
+	<Species EnglishName="Ruddy Turnstone" LatinName="Arenaria interpres" Sequence="4950" BandCode="RUTU"/>
+	<Species EnglishName="Black Turnstone" LatinName="Arenaria melanocephala" Sequence="4960" BandCode="BLTU"/>
+	<Species EnglishName="Red Knot" LatinName="Calidris canutus" Sequence="4990" BandCode="REKN"/>
+	<Species EnglishName="White-rumped Sandpiper" LatinName="Calidris fuscicollis" Sequence="5080" BandCode="WRSA"/>
+	<Species EnglishName="Sharp-tailed Sandpiper" LatinName="Calidris acuminata" Sequence="5110" BandCode="SHSA"/>
+	<Species EnglishName="Buff-breasted Sandpiper" LatinName="Tryngites subruficollis" Sequence="5180" BandCode="BBSA"/>
+	<Species EnglishName="Ruff" LatinName="Philomachus pugnax" Sequence="5200" BandCode="RUFF"/>
+	<Species EnglishName="Red Phalarope" LatinName="Phalaropus fulicarius" Sequence="5320" BandCode="REPH"/>
+	<Species EnglishName="Black-legged Kittiwake" LatinName="Rissa tridactyla" Sequence="5340" BandCode="BLKI"/>
+	<Species EnglishName="Sabine's Gull" LatinName="Xema sabini" Sequence="5360" BandCode="SAGU"/>
+	<Species EnglishName="Laughing Gull" LatinName="Leucophaeus atricilla" Sequence="5380" BandCode="LAGU"/>
+	<Species EnglishName="Heermann's Gull" LatinName="Larus heermanni" Sequence="5430" BandCode="HEEG"/>
+	<Species EnglishName="Mew Gull" LatinName="Larus canus" Sequence="5480" BandCode="MEGU"/>
+	<Species EnglishName="Western Gull" LatinName="Larus occidentalis" Sequence="5500" BandCode="WEGU"/>
+	<Species EnglishName="Yellow-footed Gull" LatinName="Larus livens" Sequence="5520" BandCode="YFGU"/>
+	<Species EnglishName="Herring Gull" LatinName="Larus argentatus" Sequence="5530" BandCode="HEGU"/>
+	<Species EnglishName="Thayer's Gull" LatinName="Larus thayeri" Sequence="5540" BandCode="THGU"/>
+	<Species EnglishName="Lesser Black-backed Gull" LatinName="Larus fuscus" Sequence="5550" BandCode="LBBG"/>
+	<Species EnglishName="Glaucous-winged Gull" LatinName="Larus glaucescens" Sequence="5590" BandCode="GWGU"/>
+	<Species EnglishName="Glaucous Gull" LatinName="Larus hyperboreus" Sequence="5600" BandCode="GLGU"/>
+	<Species EnglishName="Gull-billed Tern" LatinName="Gelochelidon nilotica" Sequence="5810" BandCode="GBTE"/>
+	<Species EnglishName="Arctic Tern" LatinName="Sterna paradisaea" Sequence="5890" BandCode="ARTE"/>
+	<Species EnglishName="Royal Tern" LatinName="Thalasseus maximus" Sequence="5910" BandCode="ROTE"/>
+	<Species EnglishName="Elegant Tern" LatinName="Thalasseus elegans" Sequence="5940" BandCode="ELTE"/>
+	<Species EnglishName="Black Skimmer" LatinName="Rynchops niger" Sequence="5960" BandCode="BLSK"/>
+	<Species EnglishName="Pomarine Jaeger" LatinName="Stercorarius pomarinus" Sequence="6000" BandCode="POJA"/>
+	<Species EnglishName="Parasitic Jaeger" LatinName="Stercorarius parasiticus" Sequence="6010" BandCode="PAJA"/>
+	<Species EnglishName="Long-tailed Jaeger" LatinName="Stercorarius longicaudus" Sequence="6020" BandCode="LTJA"/>
+	<Species EnglishName="Thick-billed Parrot" LatinName="Rhynchopsitta pachyrhyncha" Sequence="7070" BandCode="TBPA"/>
+	<Species EnglishName="Black-billed Cuckoo" LatinName="Coccyzus erythropthalmus" Sequence="7510" BandCode="BBCU"/>
+	<Species EnglishName="Groove-billed Ani" LatinName="Crotophaga sulcirostris" Sequence="7680" BandCode="GBAN"/>
+	<Species EnglishName="Buff-collared Nightjar" LatinName="Caprimulgus ridgwayi" Sequence="8000" BandCode="BCNI"/>
+	<Species EnglishName="Black Swift" LatinName="Cypseloides niger" Sequence="8510" BandCode="BLSW"/>
+	<Species EnglishName="Chimney Swift" LatinName="Chaetura pelagica" Sequence="8590" BandCode="CHSW"/>
+	<Species EnglishName="Cinnamon Hummingbird" LatinName="Amazilia rutila" Sequence="9520" BandCode="CIHU"/>
+	<Species EnglishName="Plain-capped Starthroat" LatinName="Heliomaster constantii" Sequence="9770" BandCode="PCST"/>
+	<Species EnglishName="Ruby-throated Hummingbird" LatinName="Archilochus colubris" Sequence="9860" BandCode="RTHU"/>
+	<Species EnglishName="Bumblebee Hummingbird" LatinName="Atthis heloisa" Sequence="9930" BandCode="BUHU"/>
+	<Species EnglishName="Eared Quetzal" LatinName="Euptilotis neoxenus" Sequence="10190" BandCode="EAQU"/>
+	<Species EnglishName="Red-headed Woodpecker" LatinName="Melanerpes erythrocephalus" Sequence="10860" BandCode="RHWO"/>
+	<Species EnglishName="Red-breasted Sapsucker" LatinName="Sphyrapicus ruber" Sequence="11040" BandCode="RBSA"/>
+	<Species EnglishName="Yellow-shafted Norther Flicker" LatinName="Colaptes auratus auratus" Sequence="12000" BandCode="YSFL"/>
+	<Species EnglishName="Tufted Flycatcher" LatinName="Mitrephanes phaeocercus" Sequence="12350" BandCode="TUFL"/>
+	<Species EnglishName="Eastern Wood-Pewee" LatinName="Contopus virens" Sequence="12930" BandCode="EAWP"/>
+	<Species EnglishName="Yellow-bellied Flycatcher" LatinName="Empidonax flaviventris" Sequence="12990" BandCode="YBFL"/>
+	<Species EnglishName="Acadian Flycatcher" LatinName="Empidonax virescens" Sequence="13000" BandCode="ACFL"/>
+	<Species EnglishName="Least Flycatcher" LatinName="Empidonax minimus" Sequence="13040" BandCode="LEFL"/>
+	<Species EnglishName="Nutting's Flycatcher" LatinName="Myiarchus nuttingi" Sequence="13300" BandCode="NUFL"/>
+	<Species EnglishName="Great Crested Flycatcher" LatinName="Myiarchus crinitus" Sequence="13310" BandCode="GCFL"/>
+	<Species EnglishName="Great Kiskadee" LatinName="Pitangus sulphuratus" Sequence="13410" BandCode="GRKI"/>
+	<Species EnglishName="Couch's Kingbird" LatinName="Tyrannus couchii" Sequence="13540" BandCode="COKI"/>
+	<Species EnglishName="Scissor-tailed Flycatcher" LatinName="Tyrannus forficatus" Sequence="13620" BandCode="STFL"/>
+	<Species EnglishName="Rose-throated Becard" LatinName="Pachyramphus aglaiae" Sequence="13680" BandCode="RTBE"/>
+	<Species EnglishName="White-eyed Vireo" LatinName="Vireo griseus" Sequence="14170" BandCode="WEVI"/>
+	<Species EnglishName="Black-capped Vireo" LatinName="Vireo atricapilla" Sequence="14270" BandCode="BCVI"/>
+	<Species EnglishName="Yellow-throated Vireo" LatinName="Vireo flavifrons" Sequence="14310" BandCode="YTVI"/>
+	<Species EnglishName="Blue-headed Vireo" LatinName="Vireo solitarius" Sequence="14340" BandCode="BHVI"/>
+	<Species EnglishName="Philadelphia Vireo" LatinName="Vireo philadelphicus" Sequence="14400" BandCode="PHVI"/>
+	<Species EnglishName="Red-eyed Vireo" LatinName="Vireo olivaceus" Sequence="14410" BandCode="REVI"/>
+	<Species EnglishName="Yellow-green Vireo" LatinName="Vireo flavoviridis" Sequence="14420" BandCode="YGVI"/>
+	<Species EnglishName="Blue Jay" LatinName="Cyanocitta cristata" Sequence="14560" BandCode="BLJA"/>
+	<Species EnglishName="Brown-chested Martin" LatinName="Progne tapera" Sequence="15050" BandCode="BCMA"/>
+	<Species EnglishName="Cave Swallow" LatinName="Petrochelidon fulva" Sequence="15200" BandCode="CASW"/>
+	<Species EnglishName="Black-capped Chickadee" LatinName="Poecile atricapillus" Sequence="15250" BandCode="BCCH"/>
+	<Species EnglishName="Carolina Wren" LatinName="Thryothorus ludovicianus" Sequence="15770" BandCode="CRWR"/>
+	<Species EnglishName="Eastern Winter Wren" LatinName="Troglodytes troglodytes hiemalis" Sequence="15881" BandCode="WIWR"/>
+	<Species EnglishName="Black-capped Gnatcatcher" LatinName="Polioptila nigriceps" Sequence="16250" BandCode="BCGN"/>
+	<Species EnglishName="Northern Wheatear" LatinName="Oenanthe oenanthe" Sequence="16430" BandCode="NOWE"/>
+	<Species EnglishName="Veery" LatinName="Catharus fuscescens" Sequence="16670" BandCode="VEER"/>
+	<Species EnglishName="Gray-cheeked Thrush" LatinName="Catharus minimus" Sequence="16680" BandCode="GCTH"/>
+	<Species EnglishName="Wood Thrush" LatinName="Hylocichla mustelina" Sequence="16720" BandCode="WOTH"/>
+	<Species EnglishName="Aztec Thrush" LatinName="Ridgwayia pinicola" Sequence="16960" BandCode="AZTH"/>
+	<Species EnglishName="Brown Thrasher" LatinName="Toxostoma rufum" Sequence="17120" BandCode="BRTH"/>
+	<Species EnglishName="Blue Mockingbird" LatinName="Melanotis caerulescens" Sequence="17230" BandCode="BLMO"/>
+	<Species EnglishName="White Wagtail" LatinName="Motacilla alba" Sequence="17390" BandCode="WHWA"/>
+	<Species EnglishName="Red-throated Pipit" LatinName="Anthus cervinus" Sequence="17430" BandCode="RTPI"/>
+	<Species EnglishName="Bohemian Waxwing" LatinName="Bombycilla garrulus" Sequence="17480" BandCode="BOWA"/>
+	<Species EnglishName="Blue-winged Warbler" LatinName="Vermivora pinus" Sequence="17610" BandCode="BWWA"/>
+	<Species EnglishName="Golden-winged Warbler" LatinName="Vermivora chrysoptera" Sequence="17620" BandCode="GWWA"/>
+	<Species EnglishName="Tennessee Warbler" LatinName="Vermivora peregrina" Sequence="17630" BandCode="TEWA"/>
+	<Species EnglishName="Crescent-chested Warbler" LatinName="Parula superciliosa" Sequence="17700" BandCode="CCWA"/>
+	<Species EnglishName="Tropical Parula" LatinName="Parula pitiayumi" Sequence="17720" BandCode="TRPA"/>
+	<Species EnglishName="Mangrove Yellow Warbler" LatinName="Dendroica petechia bryanti" Sequence="17730" BandCode="YWAR"/>
+	<Species EnglishName="Magnolia Warbler" LatinName="Dendroica magnolia" Sequence="17750" BandCode="MAWA"/>
+	<Species EnglishName="Cape May Warbler" LatinName="Dendroica tigrina" Sequence="17760" BandCode="CMWA"/>
+	<Species EnglishName="Black-throated Green Warbler" LatinName="Dendroica virens" Sequence="17810" BandCode="BTNW"/>
+	<Species EnglishName="Blackburnian Warbler" LatinName="Dendroica fusca" Sequence="17840" BandCode="BLBW"/>
+	<Species EnglishName="Yellow-throated Warbler" LatinName="Dendroica dominica" Sequence="17850" BandCode="YTWA"/>
+	<Species EnglishName="Pine Warbler" LatinName="Dendroica pinus" Sequence="17910" BandCode="PIWA"/>
+	<Species EnglishName="Prairie Warbler" LatinName="Dendroica discolor" Sequence="17930" BandCode="PRWA"/>
+	<Species EnglishName="Palm Warbler" LatinName="Dendroica palmarum" Sequence="17950" BandCode="PAWA"/>
+	<Species EnglishName="Bay-breasted Warbler" LatinName="Dendroica castanea" Sequence="17960" BandCode="BBWA"/>
+	<Species EnglishName="Blackpoll Warbler" LatinName="Dendroica striata" Sequence="17970" BandCode="BLPW"/>
+	<Species EnglishName="Cerulean Warbler" LatinName="Dendroica cerulea" Sequence="17980" BandCode="CEWA"/>
+	<Species EnglishName="Worm-eating Warbler" LatinName="Helmitheros vermivorum" Sequence="18060" BandCode="WEWA"/>
+	<Species EnglishName="Swainson's Warbler" LatinName="Limnothlypis swainsonii" Sequence="18070" BandCode="SWWA"/>
+	<Species EnglishName="Kentucky Warbler" LatinName="Oporornis formosus" Sequence="18110" BandCode="KEWA"/>
+	<Species EnglishName="Connecticut Warbler" LatinName="Oporornis agilis" Sequence="18120" BandCode="COWA"/>
+	<Species EnglishName="Mourning Warbler" LatinName="Oporornis philadelphia" Sequence="18130" BandCode="MOWA"/>
+	<Species EnglishName="Canada Warbler" LatinName="Wilsonia canadensis" Sequence="18300" BandCode="CAWA"/>
+	<Species EnglishName="Slate-throated Redstart" LatinName="Myioborus miniatus" Sequence="18350" BandCode="STRE"/>
+	<Species EnglishName="Fan-tailed Warbler" LatinName="Euthlypis lachrymosa" Sequence="18370" BandCode="FTWA"/>
+	<Species EnglishName="Rufous-capped Warbler" LatinName="Basileuterus rufifrons" Sequence="18390" BandCode="RCWA"/>
+	<Species EnglishName="Scarlet Tanager" LatinName="Piranga olivacea" Sequence="18850" BandCode="SCTA"/>
+	<Species EnglishName="Flame-colored Tanager" LatinName="Piranga bidentata" Sequence="18870" BandCode="FCTA"/>
+	<Species EnglishName="Eastern Towhee" LatinName="Pipilo erythrophthalmus" Sequence="19730" BandCode="EATO"/>
+	<Species EnglishName="American Tree Sparrow" LatinName="Spizella arborea" Sequence="19920" BandCode="ATSP"/>
+	<Species EnglishName="Field Sparrow" LatinName="Spizella pusilla" Sequence="19960" BandCode="FESP"/>
+	<Species EnglishName="Large-billed Savannah Sparrow" LatinName="Passerculus sandwichensis rostratus" Sequence="19980" BandCode="LBSP"/>
+	<Species EnglishName="Le Conte's Sparrow" LatinName="Ammodramus leconteii" Sequence="20090" BandCode="LCSP"/>
+	<Species EnglishName="Nelson's Sharp-tailed Sparrow" LatinName="Ammodramus nelsoni" Sequence="20130" BandCode="NSTS"/>
+	<Species EnglishName="Sooty Fox Sparrow" LatinName="Passerella iliaca unalaschcensis" Sequence="20150" BandCode="SFSP"/>
+	<Species EnglishName="Large-billed Fox Sparrow" LatinName="Passerella iliaca megarhyncha" Sequence="20170" BandCode="LFSP"/>
+	<Species EnglishName="Red Fox Sparrow" LatinName="Passerella iliaca iliaca" Sequence="20180" BandCode="RFSP"/>
+	<Species EnglishName="White-winged Dark-eyed Junco" LatinName="Junco hyemalis aikeni" Sequence="20200" BandCode="WWJU"/>
+	<Species EnglishName="Lapland Longspur" LatinName="Calcarius lapponicus" Sequence="20260" BandCode="LALO"/>
+	<Species EnglishName="Smith's Longspur" LatinName="Calcarius pictus" Sequence="20270" BandCode="SMLO"/>
+	<Species EnglishName="Snow Bunting" LatinName="Plectrophenax nivalis" Sequence="20370" BandCode="SNBU"/>
+	<Species EnglishName="Yellow Grosbeak" LatinName="Pheucticus chrysopeplus" Sequence="20510" BandCode="YEGR"/>
+	<Species EnglishName="Bobolink" LatinName="Dolichonyx oryzivorus" Sequence="20700" BandCode="BOBO"/>
+	<Species EnglishName="Rusty Blackbird" LatinName="Euphagus carolinus" Sequence="20790" BandCode="RUBL"/>
+	<Species EnglishName="Common Grackle" LatinName="Quiscalus quiscula" Sequence="20810" BandCode="COGR"/>
+	<Species EnglishName="Black-vented Oriole" LatinName="Icterus wagleri" Sequence="20960" BandCode="BVOR"/>
+	<Species EnglishName="Orchard Oriole" LatinName="Icterus spurius" Sequence="20990" BandCode="OROR"/>
+	<Species EnglishName="Streak-backed Oriole" LatinName="Icterus pustulatus" Sequence="21050" BandCode="SBOR"/>
+	<Species EnglishName="Baltimore Oriole" LatinName="Icterus galbula" Sequence="21120" BandCode="BAOR"/>
+	<Species EnglishName="Gray-crowned Rosy-Finch" LatinName="Leucosticte tephrocotis" Sequence="21450" BandCode="GCRF"/>
+	<Species EnglishName="Black Rosy-Finch" LatinName="Leucosticte atrata" Sequence="21460" BandCode="BLRF"/>
+	<Species EnglishName="Purple Finch" LatinName="Carpodacus purpureus" Sequence="21500" BandCode="PUFI"/>
+</Birds>
